@@ -7,4 +7,4 @@
 
 ## 3-From login/logout to adding comments on each post (using passport.js) this clone will manage everything.
 
-## 4-The system will have three parts: UI , Backend and Database.
+## 4-The system will have three parts: UI , Backend and Database and README
